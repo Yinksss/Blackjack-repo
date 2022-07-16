@@ -1,2 +1,2 @@
 # Blackjack-repo
-Blackjack game
+This is a basic Blackjack game
